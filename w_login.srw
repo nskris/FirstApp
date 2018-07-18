@@ -20,7 +20,7 @@ global type w_login from window
 integer width = 2738
 integer height = 1044
 boolean titlebar = true
-string title = "Untitled"
+string title = "Login Window"
 boolean controlmenu = true
 boolean minbox = true
 boolean maxbox = true

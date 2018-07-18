@@ -33,5 +33,6 @@ destroy(message)
 end on
 
 event open;open(w_login)
+Messagebox('HI PB2017','')
 end event
 

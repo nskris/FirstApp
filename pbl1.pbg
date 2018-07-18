@@ -1,7 +1,0 @@
-Save Format v3.0(19990112)
-@begin Libraries
- "pbl1.pbl" "";
-@end;
-@begin Objects
- "w_login.srw" "pbl1.pbl";
-@end;
